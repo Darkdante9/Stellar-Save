@@ -262,3 +262,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <!-- handsoff-issue-1649 -->
 - #1649: [Frontend] Audit and modularize frontend/src/components directory
+
+<!-- handsoff-issue-1650 -->
+- #1650: [Frontend] Consolidate duplicate data-fetching logic into custom hooks
